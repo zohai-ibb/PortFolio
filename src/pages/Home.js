@@ -14,7 +14,7 @@ const Home = () => {
   return (
     <div>
       <Hamburger/>
-      <Parallax pages={3}>
+      <Parallax pages={3}>z
       <ParallaxLayer offset={0} speed={0.5} style={{ zIndex: 2 }}>
         <Header />
       </ParallaxLayer>
