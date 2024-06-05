@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50">
+  <!-- Circle with light blue color -->
+  <circle cx="25" cy="25" r="20" fill="#000000" />
+  <!-- Text "View" in black color -->
+  <text x="50%" y="50%" text-anchor="middle" fill="white" font-size="13" dy=".3em">View</text>
+</svg>
